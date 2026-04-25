@@ -1,0 +1,27 @@
+---
+title: "Spyros Balafas"
+image: profile_photo.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/SpyBal
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/spyros-balafas/
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=YXMOwXQAAAAJ&hl=en&oi=ao
+---
+
+## Biostatistician | Data Scientist
+
+[cite_start]I am a Biostatistician and Data Scientist at the **Groningen Research Institute of Pharmacy (GRIP)**, University of Groningen[cite: 9]. [cite_start]My research focuses on the development of methodological and computational frameworks for modelling the dynamics of **high-dimensional time-series** and **sparse network inference**[cite: 38, 39].
+
+[cite_start]I have extensive experience in clinical, pharmacoepidemiological, and psychological research, providing statistical consulting and developing open-source tools for reproducible research[cite: 10, 13, 30].
+
+**Research Interests:**
+* [cite_start]Network-based methods for intensive longitudinal data[cite: 15, 84].
+* [cite_start]Sparse Hierarchical Vector Autoregression (SHIVAR)[cite: 87, 88].
+* [cite_start]Causal inference and time-to-event modelling[cite: 12, 15].
